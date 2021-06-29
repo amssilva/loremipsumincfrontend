@@ -1,4 +1,4 @@
-# Lorem Ipsum Inc - Backend
+# Lorem Ipsum Inc - Frontend
 Aplicação da empresa fictícia Lorem Ipsum Inc.
 
 ## Instalação
