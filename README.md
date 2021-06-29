@@ -1,5 +1,5 @@
 # Lorem Ipsum Inc - Frontend
-Aplicação da empresa fictícia Lorem Ipsum Inc.
+Aplicação da empresa Lorem Ipsum Inc.
 
 ## Instalação
 Necessita da instalação:
