@@ -1,24 +1,23 @@
-# loremipsumfrontend
+# Lorem Ipsum Inc - Backend
+Aplicação da empresa fictícia Lorem Ipsum Inc.
 
-## Project setup
+## Instalação
+Necessita da instalação:
+- Node.js 14.17.1
+
+
+
+## Instalação inicial
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Executar em ambiente de desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para produção
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
